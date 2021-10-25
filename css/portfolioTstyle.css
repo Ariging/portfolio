@@ -127,3 +127,7 @@ body{min-width: 640px;}
 .left span{
     height: 40px;
 }
+.nps {
+    width: 97%;
+    left: 11px;
+}
